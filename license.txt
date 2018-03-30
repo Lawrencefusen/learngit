@@ -1,0 +1,8 @@
+Git is control software,It's have three area.
+The first:
+	working area
+The Second:
+	stage area
+The Third:
+	Master
+
