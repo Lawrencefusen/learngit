@@ -1,2 +1,0 @@
-Test delete file in Git.
-Author : Lawrence Fu
