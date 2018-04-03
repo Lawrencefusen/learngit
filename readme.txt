@@ -6,4 +6,4 @@ Git tracks changes of files.
 Git push local to remote .
 Git push -u For test 
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
