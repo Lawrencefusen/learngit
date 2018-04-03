@@ -7,3 +7,5 @@ Git push local to remote .
 Git push -u For test 
 
 Creating a new branch is quick AND simple.
+
+Git branch use fast forward test.
