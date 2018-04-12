@@ -10,4 +10,4 @@ Creating a new branch is quick AND simple.
 
 Git branch use fast forward test.
 
-Creating a new branch is quick in 2018/4/12
+Creating a new branch is quick & simple in 2018/4/12 
